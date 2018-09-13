@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7813441-86f5-42fd-accb-6cbe7e8f2ee2" name="Default Changelist" comment="" />
+    <list default="true" id="d7813441-86f5-42fd-accb-6cbe7e8f2ee2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Andrelis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Andrelis/dziud/Moteris.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Andrelis/dziud/Moteris2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Andrelis/dziud/Moteris3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Andrelis/dziud/Moteris4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dziud/Moteris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dziud/Moteris2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dziud/Moteris3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dziud/Moteris4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dziud/Moteris5.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-2050630892">
@@ -22,22 +40,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2492" />
+          <entry key="java" value="4128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2492" />
+          <entry key="JAVA" value="4128" />
         </counts>
       </usages-collector>
     </session>
@@ -48,37 +66,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dziud/Moteris.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="43" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dziud/Moteris2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dziud/Moteris3.java">
+        <entry file="file://$PROJECT_DIR$/src/days/second/FirstExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dziud/Moteris4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dziud/Moteris4.java">
+        <entry file="file://$PROJECT_DIR$/src/days/second/SecondExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="-170">
+              <caret line="26" column="74" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -92,13 +101,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/dziud/Moteris.java" />
         <option value="$PROJECT_DIR$/src/dziud/Moteris2.java" />
         <option value="$PROJECT_DIR$/src/dziud/Moteris3.java" />
+        <option value="$PROJECT_DIR$/src/days/second/FirstExample.java" />
         <option value="$PROJECT_DIR$/src/dziud/Moteris4.java" />
+        <option value="$PROJECT_DIR$/src/days/second/SecondExample.java" />
       </list>
     </option>
   </component>
@@ -119,6 +133,9 @@
     <option name="y" value="-8" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -143,6 +160,12 @@
               <item name="Andrelis" type="b2602c69:ProjectViewProjectNode" />
               <item name="Andrelis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Andrelis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Andrelis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dziud" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -155,7 +178,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536854509694" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536861739920" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -173,7 +196,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Moteris3">
+  <component name="RunManager" selected="Application.SecondExample">
+    <configuration name="FirstExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="days.second.FirstExample" />
+      <module name="Andrelis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="days.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Moteris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dziud.Moteris" />
       <module name="Andrelis" />
@@ -213,13 +249,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="days.second.SecondExample" />
+      <module name="Andrelis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="days.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Moteris2" />
       <item itemvalue="Application.Moteris" />
       <item itemvalue="Application.Moteris3" />
+      <item itemvalue="Application.FirstExample" />
+      <item itemvalue="Application.SecondExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondExample" />
+        <item itemvalue="Application.FirstExample" />
         <item itemvalue="Application.Moteris3" />
         <item itemvalue="Application.Moteris" />
         <item itemvalue="Application.Moteris2" />
@@ -238,12 +291,12 @@
       <updated>1536770814527</updated>
       <workItem from="1536770819134" duration="14613000" />
       <workItem from="1536854688784" duration="1377000" />
-      <workItem from="1536856113217" duration="707000" />
+      <workItem from="1536856113217" duration="5183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16697000" />
+    <option name="totallyTimeSpent" value="21173000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -256,6 +309,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.25716332" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.25" />
@@ -273,9 +327,9 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293011" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" x="18" y="557" width="1396" height="269" id="Terminal" order="9" sideWeight="0.49928367" visible="true" weight="0.26881722" />
+      <window_info anchor="bottom" x="18" y="557" width="1396" height="269" id="Terminal" order="9" sideWeight="0.49928367" weight="0.26881722" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007163" side_tool="true" weight="0.26881722" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.35610464" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.3548387" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -352,6 +406,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/dziud/Moteris5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mamyte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/dziud/Moteris2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -366,10 +434,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziud/Moteris4.java">
+    <entry file="file://$PROJECT_DIR$/src/days/second/FirstExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dziud/Moteris4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/second/SecondExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="26" column="74" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
         </state>
       </provider>
     </entry>
